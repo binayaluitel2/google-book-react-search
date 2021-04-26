@@ -1,7 +1,7 @@
 {
-    "name": "mern",
+    "name": "google-book-react-search",
     "version": "0.1.0",
-    "description": "Mern Demo",
+    "description": "google-book-react-search",
     "private": true,
     "proxy": "http://localhost:3001/",
     "dependencies": {
